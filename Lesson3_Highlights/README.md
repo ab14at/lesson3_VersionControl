@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(Feburary 3rd, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Alyssa Blanco)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignemnt introduces us to what version control systems are, how they're used, and helps us create a Git account for ouselves.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Version control systems are used to edit files and keep track of the changes made over time.)
+2. (Git is used to create repositories and is used as a distributed version control system.)
+3. (This lesson also continues to teach how to use Cloud9 and how to read code to know where to make changes.)
